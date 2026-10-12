@@ -26,7 +26,9 @@ The backend API runs on `http://localhost:8000` by default. Available endpoints:
 - **GraphQL**: `http://localhost:8000/graphql`
 - **API Docs**: `http://localhost:8000/api-docs`
 
-See the main [README.md](../README.md) for full API documentation.#############################################################################################################################################################
+See the main [README.md](../README.md) for full API documentation.
+
+#############################################################################################################################################################
 
 ## Client commands
 
